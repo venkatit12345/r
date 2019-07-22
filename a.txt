@@ -1,0 +1,15 @@
+Data Types
+
+Variables can hold values of different data types. Python is a dynamically typed language hence we need not define the type of the variable while declaring it. The interpreter implicitly binds the value with its type.
+
+Python enables us to check the type of the variable used in the program. Python provides us the type() function which returns the type of the variable passed.
+
+A=10  
+b="Hi Python"  
+c = 10.5  
+print(type(a));   
+print(type(b));   
+print(type(c));  
+
+Standard data types
+
